@@ -6,9 +6,11 @@ https://github.com/zenustech/zeno
 
 警告: 此项目老板张心欣【抹黑贡献并开除核心开发者】
 
+I'm a poor intern being kicked from zeno after 6000+ commits and smearing my contributions.
+
 张心欣开除zeno核心开发者小彭老师并抹黑贡献
 
-![](https://private-user-images.githubusercontent.com/20640597/373092631-4a8fe6d8-08b1-4550-866b-9c8598c2bb61.jpg)
+![](https://private-user-images.githubusercontent.com/20640597/373092631-4a8fe6d8-08b1-4550-866b-9c8598c2bb61.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5NTcwNTQsIm5iZiI6MTcyNzk1Njc1NCwicGF0aCI6Ii8yMDY0MDU5Ny8zNzMwOTI2MzEtNGE4ZmU2ZDgtMDhiMS00NTUwLTg2NmItOWM4NTk4YzJiYjYxLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAzVDExNTkxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5ZmE2ZDYzODE2YTE2MzhmYzJjNDY4NTEwZjM1ZTA5Zjc5YTE3NmZiM2U4OWZlYzViMDE3NmU3ZTcwZDcyMjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FOTcOjzxOs84J1-Dp8THB24azTPg-vndE_Rn0GS15TE)
 
 很抱歉打断你的浏览，但是，我必须提醒您，此项目是基于剥削和压榨大量实习生所创建的血汗项目，如果您无法接受，请离开这里，这里不是家。
 
@@ -23,6 +25,8 @@ WARNING: This is a project based on exploitation of labor on poor interns
 开除了还要抹黑贡献，当6000个commit不存在，巴不得往人简历上写一笔是吧？那好，我和你爆了。
 
 [如何评价张心欣开除zeno核心开发者小彭老师？- 知乎](https://www.zhihu.com/answer/3929545310)
+
+![图片](https://github.com/user-attachments/assets/f17b761e-ed0b-4250-bfd1-186abca756f7)
 
 说什么6000个commit“每个都是加一行删一行”“全是次要的bugfix”，如果觉得这6000个commit没有价值，可以去掉，看看你的软件还跑不跑的起来，何况哪怕是6000个bugfix，也是很大的贡献量了，这也不是你抹黑没有贡献的理由。
 
