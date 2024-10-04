@@ -56,4 +56,12 @@ WARNING: This is a project based on exploitation of labor on poor interns
 
 ![](https://private-user-images.githubusercontent.com/20640597/373092702-43796b19-1c28-4ef2-b057-d5d37a38b12d.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5NTcwNTQsIm5iZiI6MTcyNzk1Njc1NCwicGF0aCI6Ii8yMDY0MDU5Ny8zNzMwOTI3MDItNDM3OTZiMTktMWMyOC00ZWYyLWIwNTctZDVkMzdhMzhiMTJkLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAzVDExNTkxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmZmZhZjI1OWU4NTNlMzIwYTg0NzIzNTJmM2RjMWQ1Yzk3MDY4NDBlYmI1MzllMTYxZWJiYmY0NDRiNTg5MzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ea3_lKIgQS8jBUIYCfmn4Y6TihT0--LAi0bhhSJopxI)
 
+I created the very first commit of Zeno, date back to Jan 2021 when Zeno was still a close-source project.
+
+Actually the whole project was created by me (@archibate), and I invite my boss (@zhxx1987) later.
+
+![图片](https://github.com/user-attachments/assets/2484d00c-b912-4c2f-af18-7e86f9eabacc)
+
+But now being kicked and contributions removed from Zeno by my boss (@zhxx1987).
+
 近日来，一位极端自我中心，缺乏常理性思维，与人合作能力极差，行为品德规范缺失，技术水平低下，不重视人才的老板，被我曝光后，在互联网上意图协同自己的水军，对我的公开课，特别是我个人，发起了网络暴力，其中甚至丧心病狂地自己恶意捏造我删评的假象，意图诬陷构贱我个人人格，贬低我的技术和业务能力，甚至捏造我有生理缺陷的谣言。因为此次污名化和人身攻击是不择手段，直指个人的，以裁员为目的的，为求自保，我只有亲自与其对战，浪费大量本可以用于制作[公开课](https://m.bilibili.com/space/263032155) 的时间，澄清大量细节。 幸而很多不认识的热心网友在我补充的大量事实细节后，还是得到了公道，所谓公道自在人心，并同时有其余的热心网友对其实际的“技术水平”发起了验证。因为我是个技术控，所以我可以确认其“技术水平”确实低下，例如认为new了不用delete，认为并行拷过去可以更快等。 软件研发路阻且长，然而此老板却妄称“技术无用论”“不需要程序员”“只需要外包就够了”。 此老板掀起此次风波后，唯独是让舆论圈，技术圈更看清了其为人。 近日来也收到不少安慰，鼓励，感谢不同的同学。 
