@@ -1,8 +1,10 @@
 # Zeno Poor Intern Being Erased from Contribution
 
+大家好，我是 [Zeno](https://github.com/zenustech/zeno) 的前核心开发者[彭于斌](https://m.bilibili.com/space/263032155) (@archibate)，在贡献了6000多个commit后，我已被张心欣开除。
+
 A poor intern whose 6000+ contribution being smeared as "meanless" from Zeno.
 
-https://github.com/zenustech/zeno
+Zeno 项目地址：https://github.com/zenustech/zeno
 
 警告: 此项目老板张心欣【抹黑贡献并开除核心开发者】
 
@@ -18,7 +20,7 @@ WARNING: This is a project based on exploitation of labor on poor interns
 
 警告: 此项目老板【抹黑贡献并开除核心开发者】
 
-大家好，我是zeno的前核心开发者[彭于斌](https://m.bilibili.com/space/263032155) (@archibate)，在贡献了6000多个commit后，我已被张心欣开除。
+大家好，我是 [Zeno](https://github.com/zenustech/zeno) 的前核心开发者[彭于斌](https://m.bilibili.com/space/263032155) (@archibate)，在贡献了6000多个commit后，我已被张心欣开除。
 
 开除后，更是发动“岁月史书”妄称“彭于斌没有任何贡献”，迫不得已，我只能在互联网曝光此无良公司的行径。
 
@@ -64,4 +66,6 @@ Actually the whole project was created by me (@archibate), and I invite my boss 
 
 But now being kicked and contributions removed from Zeno by my boss (@zhxx1987).
 
-近日来，一位极端自我中心，缺乏常理性思维，与人合作能力极差，行为品德规范缺失，技术水平低下，不重视人才的老板，被我曝光后，在互联网上意图协同自己的水军，对我的公开课，特别是我个人，发起了网络暴力，其中甚至丧心病狂地自己恶意捏造我删评的假象，意图诬陷构贱我个人人格，贬低我的技术和业务能力，甚至捏造我有生理缺陷的谣言。因为此次污名化和人身攻击是不择手段，直指个人的，以裁员为目的的，为求自保，我只有亲自与其对战，浪费大量本可以用于制作[公开课](https://m.bilibili.com/space/263032155) 的时间，澄清大量细节。 幸而很多不认识的热心网友在我补充的大量事实细节后，还是得到了公道，所谓公道自在人心，并同时有其余的热心网友对其实际的“技术水平”发起了验证。因为我是个技术控，所以我可以确认其“技术水平”确实低下，例如认为new了不用delete，认为并行拷过去可以更快等。 软件研发路阻且长，然而此老板却妄称“技术无用论”“不需要程序员”“只需要外包就够了”。 此老板掀起此次风波后，唯独是让舆论圈，技术圈更看清了其为人。 近日来也收到不少安慰，鼓励，感谢不同的同学。 
+To prove this, visit github.com/archibate/zeno and you will find you being redirected into github.com/zenustech/zeno. This is because the Zeno repository used to under my account (archibate), and I suggest create a orgnization account (zenustech) and move the Zeno respository into it. So I actually created this repository and orgnization and invite my boss (@zhxx1987) later.
+
+近日来，一位极端自我中心，缺乏常理性思维，与人合作能力极差，行为品德规范缺失，技术水平低下，不重视人才的老板，被我曝光后，在互联网上意图协同自己的水军，对我的公开课，特别是我个人，发起了网络暴力，其中甚至丧心病狂地自己恶意捏造我删评的假象，意图诬陷构贱我个人人格，贬低我的技术和业务能力，甚至捏造我有生理缺陷的谣言。因为此次污名化和人身攻击是不择手段，直指个人的，以裁员为目的的，为求自保，我只有亲自与其对战，浪费大量本可以用于制作[公开课](https://m.bilibili.com/space/263032155)的时间，澄清大量细节。 幸而很多不认识的热心网友在我补充的大量事实细节后，还是得到了公道，所谓公道自在人心，并同时有其余的热心网友对其实际的“技术水平”发起了验证。因为我是个技术控，所以我可以确认其“技术水平”确实低下，例如认为new了不用delete，认为并行拷过去可以更快等。 软件研发路阻且长，然而此老板却妄称“技术无用论”“不需要程序员”“只需要外包就够了”。 此老板掀起此次风波后，唯独是让舆论圈，技术圈更看清了其为人。 近日来也收到不少安慰，鼓励，感谢不同的同学。 
