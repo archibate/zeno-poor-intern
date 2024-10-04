@@ -1,6 +1,6 @@
 # Zeno Poor Intern Being Erased from Contribution
 
-A poor intern whose contribution being removed Zeno.
+A poor intern whose 6000+ contribution being smeared as "meanless" from Zeno.
 
 https://github.com/zenustech/zeno
 
